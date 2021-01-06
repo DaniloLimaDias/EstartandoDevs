@@ -1,6 +1,13 @@
 # EstartandoDevs
 Trabalhos do curso estardando devs.
-01: https://danilo7433.github.io/EstartandoDevs/trabalho-estartando-devs-01/
+<ol>
+  <li>https://danilo7433.github.io/EstartandoDevs/trabalho-estartando-devs-01/</li>
+  <li>https://danilo7433.github.io/EstartandoDevs/trabalho-estartando-devs-01/</li>
+  <li>https://danilo7433.github.io/EstartandoDevs/trabalho-estartando-devs-01/</li>
+  <li>https://danilo7433.github.io/EstartandoDevs/trabalho-estartando-devs-01/</li>
+  <li>https://danilo7433.github.io/EstartandoDevs/trabalho-estartando-devs-01/</li>
+</ol>
+
 02: https://danilo7433.github.io/EstartandoDevs/trabalho-estartando-devs-02/
 03: https://danilo7433.github.io/EstartandoDevs/trabalho-estartando-devs-03/
 04: https://danilo7433.github.io/EstartandoDevs/trabalho-estartando-devs-04/
